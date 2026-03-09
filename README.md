@@ -14,13 +14,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 4. Predict output and check accuracy.
 
 ## Program:
-```
-/*
-Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: H. MOHAMMED IRFAN
-RegisterNumber:  212225230179
-*/
-```
+
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
