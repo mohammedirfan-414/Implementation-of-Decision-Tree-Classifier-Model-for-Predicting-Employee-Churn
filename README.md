@@ -14,13 +14,14 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 4. Predict output and check accuracy.
 
 ## Program:
-
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: ASWINI D
-RegisterNumber:  25018420
-#ex8
+Developed by: H. MOHAMMED IRFAN
+RegisterNumber:  212225230179
+/*
+```
+```
 # Import required libraries
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier, plot_tree
@@ -73,7 +74,6 @@ plt.title("Decision Tree Classifier for Employee Churn Prediction")
 plt.show()
 */
 ```
-
 ## Output:
 ![ex8/Screenshot 2026-03-09 112916.png](<Screenshot 2026-03-09 112916.png>)
 
